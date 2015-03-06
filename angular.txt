@@ -1,0 +1,3 @@
+直接拿HTML當成Template
+單元測試與E2E測試架構
+ng會透過一組HTML編譯器($compile)將功能掛上去
